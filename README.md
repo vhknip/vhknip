@@ -18,5 +18,5 @@ Thanks for stopping by my GitHub page!
 - :test_tube:I'm currently a chemist working with non-targeted analysis and chemical quantification data
 - :triangular_ruler:Background in physics with some basic expereince in molecular dynamics, monte carlo, and numerical methods.
 - :books:Currently enrolled in Coding Dojo's Software Development Full-Stack Bootcamp
-- :basketball:Weird obsession with NBA data
+- :basketball:Odd obssession with NBA statistics
 - 👨‍🏫Avid problem-solver and receptive to learning anything anyone has to offer!
