@@ -19,7 +19,7 @@ Thanks for stopping by my GitHub page!
 - :triangular_ruler:Background in physics with some basic expereince in molecular dynamics, monte carlo, and numerical methods.
 - :books:Currently enrolled in Coding Dojo's Software Development Full-Stack Bootcamp
 - :basketball:Odd obssession with NBA statistics
-- 👨‍🏫Avid problem-solver and receptive to learning anything anyone has to offer!
+- 👨‍🏫Loves to solve some problems and learn new things every day!
 
 ## Current Projects
 - Chemistry Toolbox: collection of functions that allow chemists to streamline data analysis workflows and visualize mass spec data without having to rely on specialized software 
