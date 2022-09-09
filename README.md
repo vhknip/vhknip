@@ -20,3 +20,8 @@ Thanks for stopping by my GitHub page!
 - :books:Currently enrolled in Coding Dojo's Software Development Full-Stack Bootcamp
 - :basketball:Odd obssession with NBA statistics
 - 👨‍🏫Avid problem-solver and receptive to learning anything anyone has to offer!
+
+## Current Projects
+- Chemistry Toolbox: collection of functions that allow chemists to streamline data analysis workflows and visualize mass spec data without having to rely on specialized software 
+- Learning SQL
+- Coding Dojo Python Stack Projects
